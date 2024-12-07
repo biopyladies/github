@@ -1,8 +1,9 @@
 # Git e Github
 
-<div style="text-align: center;"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50"/></div>
 
-Git é um sistema de controle de versão distribuído open-source criado por Linus Torvalds em 2005 para gerenciar o desenvolvimento do kernel Linux. 
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50"/>
+
+`Git é um sistema de controle de versão distribuído open-source criado por Linus Torvalds em 2005 para gerenciar o desenvolvimento do kernel Linux.`
 
 ```mermaid
 gitGraph
@@ -18,9 +19,10 @@ gitGraph
    commit
 ```
 ---
-<div style="text-align: center;"><img src="https://github.com/user-attachments/assets/dfbd3220-149a-41fb-b694-0cfa36d14ae8" width="50"/></div>
 
-GitHub é uma plataforma de hospedagem de código-fonte e colaboração baseada em Git, criada por Tom Preston-Werner, Chris Wanstrath, PJ Hyett e Scott Chacon em 2008. Atualmente, tem como proprietária a empresa Microsoft.
+<img src="https://github.com/user-attachments/assets/dfbd3220-149a-41fb-b694-0cfa36d14ae8" width="50"/>
+
+`GitHub é uma plataforma de hospedagem de código-fonte e colaboração baseada em Git, criada por Tom Preston-Werner, Chris Wanstrath, PJ Hyett e Scott Chacon em 2008. Atualmente, tem como proprietária a empresa Microsoft.`
 
 ```mermaid
 flowchart LR
@@ -40,7 +42,7 @@ flowchart LR
 - Gerenciar projetos
 - Atuar colaborativamente
 - Integrar Github e Colab
-- 
+
 ---
 
 ### [Github Pages](https://pages.github.com/)
@@ -53,7 +55,6 @@ Permite a criação de sites estáticos integrados a um repositório.
 [Jekyll Themes](http://jekyllthemes.org/) |
 [Github Themes](https://pages.github.com/themes/)
 
-
 ---
 
  ### Aula prática
@@ -65,8 +66,8 @@ Permite a criação de sites estáticos integrados a um repositório.
 
 ### Material suplementar
 
-[Git](https://git-scm.com/)
-[Github](https://github.com/)
+[Git](https://git-scm.com/) |
+[Github](https://github.com/) |
 [Git e Github explicado](https://www.youtube.com/playlist?list=PLhkO7OMKgT_rqwGYldqcFxyN4yjFgmDh8) |
 [Github Alura](https://conteudo.alura.com.br/hubfs/B2C/Materiais%20ricos/Github_Tech_Compress_V2.pdf) |
 [GitFichas](https://jtemporal.com/microlivrodegit/) |
