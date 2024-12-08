@@ -1,6 +1,5 @@
 # Git e Github
 
-
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50"/>
 
 `Git é um sistema de controle de versão distribuído open-source criado por Linus Torvalds em 2005 para gerenciar o desenvolvimento do kernel Linux.`
@@ -57,14 +56,16 @@ Permite a criação de sites estáticos integrados a um repositório.
 
 ---
 
- ### Aula prática
+ # Aula prática
+
  
 - [x] Criar repositório 
 - [x] Vincular um notebook do colab ao repositório
 - [x] Editar readme pessoal
 - [x] Criar uma Página do Repositório
 
-### Material suplementar
+
+# Material suplementar
 
 [Git](https://git-scm.com/) |
 [Github](https://github.com/) |
