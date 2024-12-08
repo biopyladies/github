@@ -42,7 +42,7 @@ flowchart LR
 - Integrar Github e Colab
 
 
-### [Github Pages](https://pages.github.com/)
+***[Github Pages](https://pages.github.com/)***
 
 Permite a criação de sites estáticos integrados a um repositório.
 
