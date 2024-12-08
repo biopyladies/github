@@ -78,4 +78,4 @@ Permite a criação de sites estáticos integrados a um repositório.
 **Modelos**
 
 [Readme pessoal](https://github.com/jfy133) |
-[Página Pessoal](https://deisygysi.github.io/talk/)
+[Página Pessoal](https://deisygysi.github.io/)
