@@ -74,5 +74,5 @@ Permite a criação de sites estáticos integrados a um repositório.
 [Mermaid](https://mermaid.js.org/intro/getting-started.html) 
 
 **Modelos**
-[Readme pessoal](https://github.com/jfy133)
+[Readme pessoal](https://github.com/jfy133) |
 [Página Pessoal](https://deisygysi.github.io/talk/)
