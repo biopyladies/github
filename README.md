@@ -32,7 +32,7 @@ flowchart LR
 
 **Como usar**
 - Criar conta no github
-- Criar repositório pessoal
+- Criar repositório pessoal (mesmo nome de usuário)
 - Instalar git na sua máquina local
 - Configurar chaves de acesso ao Github
 
@@ -54,11 +54,12 @@ Permite a criação de sites estáticos integrados a um repositório.
 
 
  **Aula prática**
- 
-- [x] Criar repositório 
-- [x] Vincular um notebook do colab ao repositório
+
 - [x] Editar readme pessoal
-- [x] Criar uma Página do Repositório
+- [x] Criar repositório
+- [ ] Criar README do repositório
+- [x] Vincular um notebook do colab ao repositório
+- [x] Criar uma Página do Repositório 
 
 
 **Material suplementar**
