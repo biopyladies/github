@@ -52,7 +52,8 @@ Permite a criação de sites estáticos integrados a um repositório.
 [Jekyll Themes](http://jekyllthemes.org/) |
 [Github Themes](https://pages.github.com/themes/)
 
- # Aula prática
+
+ **Aula prática**
  
 - [x] Criar repositório 
 - [x] Vincular um notebook do colab ao repositório
@@ -60,7 +61,7 @@ Permite a criação de sites estáticos integrados a um repositório.
 - [x] Criar uma Página do Repositório
 
 
-# Material suplementar
+**Material suplementar**
 
 [Git](https://git-scm.com/) |
 [Github](https://github.com/) |
