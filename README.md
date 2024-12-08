@@ -17,7 +17,6 @@ gitGraph
    commit
    commit
 ```
----
 
 <img src="https://github.com/user-attachments/assets/dfbd3220-149a-41fb-b694-0cfa36d14ae8" width="50"/>
 
@@ -42,7 +41,6 @@ flowchart LR
 - Atuar colaborativamente
 - Integrar Github e Colab
 
----
 
 ### [Github Pages](https://pages.github.com/)
 
@@ -54,10 +52,7 @@ Permite a criação de sites estáticos integrados a um repositório.
 [Jekyll Themes](http://jekyllthemes.org/) |
 [Github Themes](https://pages.github.com/themes/)
 
----
-
  # Aula prática
-
  
 - [x] Criar repositório 
 - [x] Vincular um notebook do colab ao repositório
