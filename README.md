@@ -57,7 +57,7 @@ Permite a criação de sites estáticos integrados a um repositório.
 
 - [x] Editar readme pessoal
 - [x] Criar repositório
-- [ ] Criar README do repositório
+- [x] Criar README do repositório
 - [x] Vincular um notebook do colab ao repositório
 - [x] Criar uma Página do Repositório 
 
