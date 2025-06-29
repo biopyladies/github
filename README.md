@@ -68,6 +68,8 @@ Permite a criação de sites estáticos integrados a um repositório.
 - [Git](https://git-scm.com/) 
 - [Github](https://github.com/) 
 - [Git e Github explicado](https://www.youtube.com/playlist?list=PLhkO7OMKgT_rqwGYldqcFxyN4yjFgmDh8) 
+- [Entendendo Git](https://www.youtube.com/watch?v=6Czd1Yetaac)
+- [Usando Git Direito](https://www.youtube.com/watch?v=6OokP-NE49k)
 - [Github Alura](https://conteudo.alura.com.br/hubfs/B2C/Materiais%20ricos/Github_Tech_Compress_V2.pdf) 
 - [GitFichas](https://jtemporal.com/microlivrodegit/) 
 - [Configurar README do seu perfil](https://docs.github.com/pt/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) 
