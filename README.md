@@ -40,6 +40,7 @@ flowchart LR
 - Gerenciar projetos
 - Atuar colaborativamente
 - Integrar Github e Colab
+- Criar páginas estáticas
 
 
 **[Github Pages](https://pages.github.com/)**
