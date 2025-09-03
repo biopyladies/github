@@ -11,9 +11,6 @@ Capacitar participantes a:
 - Compreender o fluxo básico de versionamento com Git
 - Fazer push/pull de repositórios com GitHub
 
-## 📁 Estrutura
-
-[WIP]
 
 ## 🚀 Pré-requisitos
 
