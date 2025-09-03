@@ -2,7 +2,7 @@
 
 Permite a criação de sites estáticos integrados a um repositório.
 
-- [Docs](hhttps://docs.github.com/pt/pages) 
+- [Docs](https://docs.github.com/pt/pages) 
 - [Bootstrap Themes](https://bootstrapmade.com/bootstrap-portfolio-templates/) 
 - [Jekyll Themes](http://jekyllthemes.org/) 
 
